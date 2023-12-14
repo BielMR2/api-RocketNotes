@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "rocketnotes-backend",
+            "cwd": "./src/server.js",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}
